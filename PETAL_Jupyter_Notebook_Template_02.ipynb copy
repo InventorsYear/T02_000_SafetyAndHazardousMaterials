@@ -1,0 +1,250 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Lab Area and Title, e.g.,T04 Tensile Testing of Wires\n",
+    "**Physics-Enhanced Technical Ability Lab (PETAL)**\n",
+    "\n",
+    "(JUPYTER NOTEBOOK TEMPLATE)\n",
+    "\n",
+    "(Include an image of the experiment here.)\n",
+    "\n",
+    "**Jump to the [experimental section](#Section_7).**"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# 1 Classification\n",
+    "Primary topic: **Code T01...**|.\n",
+    ":--- |:---\n",
+    "Repertoire (domain) | Technical *(other choices are Analytical, Statistical, Computational, Workflow Tools & Methods)*\n",
+    "Area\t |**01 Design & Early Prototyping**\n",
+    "Subarea | (letter)\n",
+    "Topic (resource)\t |(number) \n",
+    "Subtopic(s) | (.number)\n",
+    "Competency type(s) |**D**esign i**N**strumentation or **P**rocedural\n",
+    "Specific focus  |-\n",
+    "Conceptual framework |-\n",
+    "Level \t|Aware, Ready, Capable, Proficient, Advanced\n",
+    "\n",
+    "Ancillary topics: **Txxxx**|.\n",
+    ":--- |:---\n",
+    "Topic | -\n",
+    "Topic | -\n",
+    "      | *See the appendix for a complete description of each topic in the same format as above.*\n",
+    "\n",
+    "\n",
+    "NOTE: Design Competency subtypes may be specified, so for example the \"s\" in  T04k01DsmdtP indicates that the underlying **s**cience of **D**esigning with materials is included as part of the learning. The choices for design subtypes are:\n",
+    "    - s underlying science & design principles \n",
+    "    - m analytical & computational models\n",
+    "    - d design drawing & specifications\n",
+    "    - b build\n",
+    "    - t test & troubleshoot\n",
+    "If no subtype is specified, then all are assumed to be included in the instruction.\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## 2 Why this is useful\n",
+    "This section describes how the knowledge and skills gained are useful in performing scientific research and/or in creating solutions useful in the various areas of human application. Some brief examples might be provided."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## 3 Learning goals\n",
+    "\n",
+    "The material that should be worked through and the deliverables to be provided are outlined. These may be assigned to different levels of achievement:\n",
+    "- Aware: evidence is provided on achieving perspective (section 4) and using a pre-built version of a device or doing a simple instance of a procedure (a first-level version of section 8).\n",
+    "- Ready:\n",
+    "- Capable:\n",
+    "\n",
+    "Two higher levels *Proficient* and *Expert* require different and more extensive content and actions. **Section 10 Further Exploration** provides a doorway to work towards these higher levels."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## 4 Perspective, preparatory readings, and websites\n",
+    "\n",
+    "A decription is given for how the primary topic fits into the area from which it is drawn. Other choices for how the technology or method might be achieved are enumerated so that a person becomes aware of options to consder.\n",
+    "\n",
+    "Then links to websites and a guide other sources of reading materials (including items listed in the bibliograph section 12) are identified for wider initial exploraiton of the topic and its background."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## 5 Underlying physics\n",
+    "\n",
+    "This is the key section for connecting the technical topic to physics. How do physics concepts provide insight into why a device or process works the way it does? How does such insight suggest variations, enhancements, and connections to other practical issues.\n",
+    "\n",
+    "This section consists of\n",
+    "- Text\n",
+    "- Equations\n",
+    "- Video\n",
+    "- Numerical simulations and graphics that help explore the quantitative nature of the physical concepts\n",
+    "- Exercises\n",
+    "- Written reflections\n",
+    "\n",
+    "This section might largely be set up for self-study and self-paced inquiry, with guiding questions to direct the process along with some suggested readings from physics texts.\n",
+    "\n",
+    "The material can be divided into two levels of learning, serving students at different stages of learning about physics.\n",
+    "\n",
+    "### Essential ideas\n",
+    "\n",
+    "Uses algebra, trigonometry, and basic functions like exponential and logarithm.\n",
+    "\n",
+    "### More advanced concepts\n",
+    "\n",
+    "Uses complex numbers, calculus, vectors, vector analysis... as well as physical models from 2nd and 3rd year college physics courses, etc.\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## 6 Technical description and modeling\n",
+    "\n",
+    "This is where a detailed presentation of the specific focus idea is created, building from the underlying physics concepts. A goal is to create both descriptive and quantitative models, including mathematical analysis and computer simulation. Python code cells are often an important part of this section.\n",
+    "\n",
+    "A key function of this section is to lay the groundwork for both the laboratory processes and the subsequent data analysis and reflections.\n",
+    "\n",
+    "In a formal course, this section might be done \"live\" in class so that there can be active discussion. Some aspects of this can be staged for student teams to first explore amongst themselves.\n",
+    "\n",
+    "Additional exercises might be included in this section.\n",
+    "\n",
+    "### Basic models\n",
+    "\n",
+    "### More advanced models\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "<a id='Section_7'></a> \n",
+    "\n",
+    "## 7 Equipment and materials\n",
+    "\n",
+    "A list of instruments, laboratory fixtures, supplies and other materials needed. Note: Sources of supply can be listed in a subsection of Section 11 Appendices."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## 8 Procedures to perform in the lab\n",
+    "\n",
+    "The first part should discuss any safety issues.\n",
+    "\n",
+    "Step-by-step procedures then describe how to do much of the lab work. However, trying variations should be encouraged. (See also Section 10 for more far-reaching exploration.)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## 9 Data analysis and reflections about the results\n",
+    "\n",
+    "An important goal is to yield, in most cases, a set of systematic quantitative results. How well does a technical system or process perform? Does the behavior conform to models developed in Section 6?\n",
+    "\n",
+    "This is a place for critical reflection of how the lab process and technical design proceeded. Were there pitfalls or unexpected outcomes? How might models be improved? Where might issues exist that could be resolved with further development of the actual devices, instruments or processes?\n",
+    "\n",
+    "Example code can be provided for data analysis. Independent additional coding and plotting should be encouraged."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## 10 Further exploration\n",
+    "\n",
+    "Individual exploration of applications and improvements of the technical resources should strongly encouraged. Some suggested directons for exploration can be given, including ways to connect with other technologies."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## 11 Appendices\n",
+    "\n",
+    "The sections can vary, but examples include:\n",
+    "### Full classification details of the ancillary topics learned in this lab\n",
+    "### More detailed modeling and analysis\n",
+    "### Explanation of code algorithms\n",
+    "### Sources of supply of materials"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## 12 Bibliography\n",
+    "\n",
+    "### 12.1 First reads\n",
+    "Books that give a good overview and introduction to the topic, with perhaps further practical lessons included.\n",
+    "\n",
+    "e.g.\n",
+    "\n",
+    "    Alesina, I. and E. Lupton (2010), Exploring Materials: Creative Design For Everyday Objects (Princeton Architectural Press).\n",
+    "    \n",
+    "### 12.2 Desert-Island Book(s)\n",
+    "\n",
+    "One or more books that could be the one(s) to have as a comprehensive reference on the topic if you were stuck on a desert island.\n",
+    "\n",
+    "e.g.\n",
+    "\n",
+    "    Horowitz, P. and W. Hill (2015), The Art of Electronics, 3rd ed. (Cambridge).\n",
+    "\n",
+    "### 12.3 Journal literature, review articles, and websites\n",
+    "\n",
+    "### 12.4 Technical books specific to this topic\n",
+    "    \n",
+    "    \n"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.6"
+  },
+  "toc": {
+   "nav_menu": {},
+   "number_sections": true,
+   "sideBar": true,
+   "skip_h1_title": true,
+   "title_cell": "Table of Contents",
+   "title_sidebar": "Contents",
+   "toc_cell": false,
+   "toc_position": {},
+   "toc_section_display": true,
+   "toc_window_display": false
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
